@@ -1,0 +1,39 @@
+C:\vb\mposAdmin\mposAdmin\bin\Debug\mposAdmin.exe.config
+C:\vb\mposAdmin\mposAdmin\bin\Debug\mposAdmin.exe
+C:\vb\mposAdmin\mposAdmin\bin\Debug\mposAdmin.pdb
+C:\vb\mposAdmin\mposAdmin\obj\Debug\mposAdmin.Admin.resources
+C:\vb\mposAdmin\mposAdmin\obj\Debug\mposAdmin.AdminLogin.resources
+C:\vb\mposAdmin\mposAdmin\obj\Debug\mposAdmin.Properties.Resources.resources
+C:\vb\mposAdmin\mposAdmin\obj\Debug\mposAdmin.csproj.GenerateResource.Cache
+C:\vb\mposAdmin\mposAdmin\obj\Debug\mposAdmin.exe
+C:\vb\mposAdmin\mposAdmin\obj\Debug\mposAdmin.pdb
+C:\vb\mposAdmin\mposAdmin\obj\Debug\mposAdmin.AddnewCategory.resources
+C:\vb\mposAdmin\mposAdmin\obj\Debug\mposAdmin.Addnewproduct.resources
+C:\vb\mposAdmin\mposAdmin\obj\Debug\mposAdmin.EditProducts.resources
+C:\vb\mposAdmin\mposAdmin\obj\Debug\mposAdmin.EditCategory.resources
+C:\Users\kanis\Desktop\New folder\POs last statbel back up\mposAdmin\mposAdmin\bin\Debug\mposAdmin.exe.config
+C:\Users\kanis\Desktop\New folder\POs last statbel back up\mposAdmin\mposAdmin\obj\Debug\mposAdmin.exe
+C:\Users\kanis\Desktop\New folder\POs last statbel back up\mposAdmin\mposAdmin\obj\Debug\mposAdmin.pdb
+C:\Users\kanis\Desktop\New folder\POs last statbel back up\mposAdmin\mposAdmin\bin\Debug\mposAdmin.exe
+C:\Users\kanis\Desktop\New folder\POs last statbel back up\mposAdmin\mposAdmin\bin\Debug\mposAdmin.pdb
+C:\Users\kanis\Desktop\New folder\POs last statbel back up\mposAdmin\mposAdmin\obj\Debug\mposAdmin.AddnewCategory.resources
+C:\Users\kanis\Desktop\New folder\POs last statbel back up\mposAdmin\mposAdmin\obj\Debug\mposAdmin.Addnewproduct.resources
+C:\Users\kanis\Desktop\New folder\POs last statbel back up\mposAdmin\mposAdmin\obj\Debug\mposAdmin.Admin.resources
+C:\Users\kanis\Desktop\New folder\POs last statbel back up\mposAdmin\mposAdmin\obj\Debug\mposAdmin.AdminLogin.resources
+C:\Users\kanis\Desktop\New folder\POs last statbel back up\mposAdmin\mposAdmin\obj\Debug\mposAdmin.EditCategory.resources
+C:\Users\kanis\Desktop\New folder\POs last statbel back up\mposAdmin\mposAdmin\obj\Debug\mposAdmin.EditProducts.resources
+C:\Users\kanis\Desktop\New folder\POs last statbel back up\mposAdmin\mposAdmin\obj\Debug\mposAdmin.Properties.Resources.resources
+C:\Users\kanis\Desktop\New folder\POs last statbel back up\mposAdmin\mposAdmin\obj\Debug\mposAdmin.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\mposAdmin\mposAdmin\bin\Debug\mposAdmin.exe.config
+C:\Users\PC\Desktop\mposAdmin\mposAdmin\obj\Debug\mposAdmin.exe
+C:\Users\PC\Desktop\mposAdmin\mposAdmin\obj\Debug\mposAdmin.pdb
+C:\Users\PC\Desktop\mposAdmin\mposAdmin\bin\Debug\mposAdmin.exe
+C:\Users\PC\Desktop\mposAdmin\mposAdmin\bin\Debug\mposAdmin.pdb
+C:\Users\PC\Desktop\mposAdmin\mposAdmin\obj\Debug\mposAdmin.AddnewCategory.resources
+C:\Users\PC\Desktop\mposAdmin\mposAdmin\obj\Debug\mposAdmin.Addnewproduct.resources
+C:\Users\PC\Desktop\mposAdmin\mposAdmin\obj\Debug\mposAdmin.Admin.resources
+C:\Users\PC\Desktop\mposAdmin\mposAdmin\obj\Debug\mposAdmin.AdminLogin.resources
+C:\Users\PC\Desktop\mposAdmin\mposAdmin\obj\Debug\mposAdmin.EditCategory.resources
+C:\Users\PC\Desktop\mposAdmin\mposAdmin\obj\Debug\mposAdmin.EditProducts.resources
+C:\Users\PC\Desktop\mposAdmin\mposAdmin\obj\Debug\mposAdmin.Properties.Resources.resources
+C:\Users\PC\Desktop\mposAdmin\mposAdmin\obj\Debug\mposAdmin.csproj.GenerateResource.Cache
